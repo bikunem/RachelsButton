@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RachelsButton</string>
+    <string-array name="affirmation">
+        <item>You are awesome!</item>
+        <item>You look totally cool when you dance</item>
+        <item>You are very fly in general</item>
+        <item>You look super smart.  Were you lead intern?</item>
+    </string-array>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
